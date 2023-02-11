@@ -1,0 +1,13 @@
+/*  COLORS */
+:root {
+	--color-primary: #105e46;
+	--color-accent: #12805d;
+	--color-success: #02d693;
+	--color-light: #bfd1e5;
+	--color-tertiary: #60695c;
+	--color-dark: #1a1f16;
+	--color-placeholder: rgba(26, 31, 22, 0.5);
+	--color-white: #ffffff;
+	--color-danger: #e5252c;
+	--color-warning: #e6d117;
+}
